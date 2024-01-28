@@ -1,0 +1,101 @@
+Report
+------------
+
+Fetched 597 tweets on Dumpling
+General Result: Weakly Positive
+Positive Rate: 12.06%
+Weakly Positive Rate: 14.91%
+Neutral Rate: 62.81%
+Weakly Negative Rate: 7.54%
+Negative Rate: 2.51%
+-------------------------------------
+Fetched 387 tweets on Hot pot
+General Result: Weakly Positive
+Positive Rate: 10.59%
+Weakly Positive Rate: 68.99%
+Neutral Rate: 12.14%
+Weakly Negative Rate: 8.01%
+Negative Rate: 0.26%
+-------------------------------------
+Fetched 2631 tweets on Sushi
+General Result: Weakly Positive
+Positive Rate: 13.38%
+Weakly Positive Rate: 16.91%
+Neutral Rate: 55.83%
+Weakly Negative Rate: 10.38%
+Negative Rate: 3.19%
+-------------------------------------
+Fetched 256 tweets on Sashimi
+General Result: Weakly Positive
+Positive Rate: 13.28%
+Weakly Positive Rate: 25.78%
+Neutral Rate: 48.83%
+Weakly Negative Rate: 10.55%
+Negative Rate: 1.56%
+-------------------------------------
+Fetched 2625 tweets on Ramen
+General Result: Weakly Positive
+Positive Rate: 9.26%
+Weakly Positive Rate: 12.15%
+Neutral Rate: 68.11%
+Weakly Negative Rate: 8.88%
+Negative Rate: 1.56%
+-------------------------------------
+Fetched 1252 tweets on Pho
+General Result: Weakly Positive
+Positive Rate: 15.58%
+Weakly Positive Rate: 15.97%
+Neutral Rate: 57.27%
+Weakly Negative Rate: 8.47%
+Negative Rate: 2.72%
+-------------------------------------
+Fetched 849 tweets on Kimchi
+General Result: Weakly Positive
+Positive Rate: 14.37%
+Weakly Positive Rate: 19.08%
+Neutral Rate: 56.77%
+Weakly Negative Rate: 7.66%
+Negative Rate: 2.12%
+-------------------------------------
+Fetched 532 tweets on Green curry
+General Result: Weakly Positive
+Positive Rate: 8.27%
+Weakly Positive Rate: 30.08%
+Neutral Rate: 18.05%
+Weakly Negative Rate: 42.86%
+Negative Rate: 0.75%
+-------------------------------------
+Fetched 240 tweets on Pad thai
+General Result: Weakly Positive
+Positive Rate: 15.00%
+Weakly Positive Rate: 23.33%
+Neutral Rate: 49.17%
+Weakly Negative Rate: 7.92%
+Negative Rate: 4.58%
+-------------------------------------
+Fetched 452 tweets on Butter chicken
+General Result: Weakly Negative
+Positive Rate: 2.88%
+Weakly Positive Rate: 14.16%
+Neutral Rate: 5.53%
+Weakly Negative Rate: 36.50%
+Negative Rate: 40.93%
+-------------------------------------
+
+
+Overall Result
+Total Tweets: 9821
+-------------------
+Scores:
+Dumpling: 100.39
+Hot pot: 101.51
+Sushi: 96.69
+Sashimi: 100.07
+Ramen: 96.21
+Pho: 103.69
+Kimchi: 103.14
+Green curry: 84.13
+Pad thai: 99.32
+Butter chicken: 49.36
+
+Rankings: Pho > Kimchi > Hot pot > Dumpling > Sashimi > Pad thai > Sushi > Ramen > Green curry > Butter chicken
